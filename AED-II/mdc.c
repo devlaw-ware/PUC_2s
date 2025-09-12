@@ -1,5 +1,5 @@
 // Atividade 01 - send canvas 
-// Laura Beatriz Santos Viana 
+
 
 #include <stdio.h>
 
